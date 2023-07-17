@@ -1,0 +1,10 @@
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\obj\Debug\GraWŻycie.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\obj\Debug\GraWŻycie.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\bin\Debug\GraWŻycie.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\bin\Debug\GraWŻycie.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\obj\Debug\GraWŻycie.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\obj\Debug\GraWŻycie.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\GraWŻycie\GraWŻycie\obj\Debug\GraWŻycie.foŻycie.resources
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.exe
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.pdb

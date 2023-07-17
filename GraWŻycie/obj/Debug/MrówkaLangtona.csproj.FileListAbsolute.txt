@@ -1,0 +1,33 @@
+F:\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.exe
+F:\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.pdb
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\ResolveAssemblyReference.cache
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.foŻycie.resources
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.Properties.Resources.resources
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\MrówkaLangtona.csproj.GenerateResource.Cache
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.exe
+F:\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.pdb
+E:\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.exe
+E:\Mrówka Langtona\GraWŻycie\obj\Debug\ResolveAssemblyReference.cache
+E:\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.foŻycie.resources
+E:\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.Properties.Resources.resources
+E:\Mrówka Langtona\GraWŻycie\obj\Debug\MrówkaLangtona.csproj.GenerateResource.Cache
+E:\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.exe
+E:\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.pdb
+E:\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.pdb
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.foŻycie.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.Properties.Resources.resources
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\obj\Debug\MrówkaLangtona.csproj.GenerateResource.Cache
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.exe
+C:\Users\Jakub\Documents\Visual Studio 2008\Projects\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\bin\Debug\GraWŻycie.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\MrówkaLangtona.csprojAssemblyReference.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.Properties.Resources.resources
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\MrówkaLangtona.csproj.GenerateResource.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\MrówkaLangtona.csproj.CoreCompileInputs.cache
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.exe
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\GraWŻycie.pdb
+C:\Users\kzez1986\Desktop\Projekty do gita\Mrówka Langtona\GraWŻycie\obj\Debug\Mrówka.foMrówka.resources
